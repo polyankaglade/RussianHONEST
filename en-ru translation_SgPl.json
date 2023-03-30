@@ -1,0 +1,332 @@
+{
+    "[I] should work as a [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "должна",
+                "male": "должен"
+            },
+            "plural": "должны"
+        },
+        "const": "работать как"
+    },
+    "[I] has earned a living as a [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "заработала",
+                "male": "заработал"
+            },
+            "plural": "заработали"
+        },
+        "const": "себе на жизнь, работая"
+    },
+	"[I] has earned a living doing the [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "заработала",
+                "male": "заработал"
+            },
+            "plural": "заработали"
+        },
+        "const": "себе на жизнь, занимаясь"
+    },
+	"[I] have earned a living doing the [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "заработала",
+                "male": "заработал"
+            },
+            "plural": "заработали"
+        },
+        "const": "себе на жизнь, занимаясь"
+    },
+	"[I] was hired as a [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "была нанята",
+                "male": "был нанят"
+            },
+            "plural": "были наняты"
+        },
+        "const": "как"
+    },
+	"[I] were hired as [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "была нанята",
+                "male": "был нанят"
+            },
+            "plural": "были наняты"
+        },
+        "const": "как"
+    },
+    "[I] worked as a [M]": {
+        "pattern": "[C] [I] [V] [M]",
+        "var": {
+            "singular": {
+                "female": "эта работала",
+                "male": "этот работал"
+            },
+            "plural": "эти работали"
+        },
+        "const": "говорят,"
+    },
+    "[I] dreams of being a [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "мечтает",
+                "male": "мечтает"
+            },
+            "plural": "мечтают"
+        },
+        "const": "быть"
+    },
+	"[I] dream of being the [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "мечтает",
+                "male": "мечтает"
+            },
+            "plural": "мечтают"
+        },
+        "const": "быть"
+    },
+    "[I] should work as [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "должна",
+                "male": "должен"
+            },
+            "plural": "должны"
+        },
+        "const": "работать"
+    },
+    "[I] worked as [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "работала",
+                "male": "работал"
+            },
+            "plural": "работали"
+        },
+        "const": "в роли"
+    },
+    "[I] is the most [M]": {
+        "pattern": "[I] [C] [V] [M]",
+        "var": {
+            "singular": {
+                "female": "самая",
+                "male": "самый"
+            },
+            "plural": "самые"
+        },
+        "const": "- это"
+    },
+    "[I] are the most [M]": {
+        "pattern": "[I] [C] [V] [M]",
+        "var": {
+            "singular": {
+                "female": "самая",
+                "male": "самый"
+            },
+            "plural": "самые"
+        },
+        "const": "- это"
+    },
+    "[I] is the best [M]": {
+        "pattern": "[I] [C] [V] [M]",
+        "var": {
+            "singular": {
+                "female": "лучшая",
+                "male": "лучший"
+            },
+            "plural": "лучшие"
+        },
+        "const": "- это"
+    },
+    "[I] are the best [M]": {
+        "pattern": "[I] [C] [V] [M]",
+        "var": {
+            "singular": {
+                "female": "лучшая",
+                "male": "лучший"
+            },
+            "plural": "лучшие"
+        },
+        "const": "- это"
+    },
+    "[I] is a great [M]": {
+        "pattern": "[I] [C] [V] [M]",
+        "var": {
+            "singular": {
+                "female": "великая",
+                "male": "великий"
+            },
+            "plural": "великие"
+        },
+        "const": "-"
+    },
+    "[I] are great [M]": {
+        "pattern": "[I] [C] [V] [M]",
+        "var": {
+            "singular": {
+                "female": "великая",
+                "male": "великий"
+            },
+            "plural": "великие"
+        },
+        "const": "-"
+    },
+    "[I] are known as [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "известна",
+                "male": "известен"
+            },
+            "plural": "известны"
+        },
+        "const": "как"
+    },
+	    "[I] is known as a [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "известна",
+                "male": "известен"
+            },
+            "plural": "известны"
+        },
+        "const": "как"
+    },
+    "[I] is a [M]": {
+        "pattern": "[I] [V][C] [M]",
+        "var": {
+            "singular": {
+                "female": "",
+                "male": ""
+            },
+            "plural": ""
+        },
+        "const": "- это просто"
+    },
+    "[I] are [M]": {
+        "pattern": "[I] [V][C] [M]",
+        "var": {
+            "singular": {
+                "female": "",
+                "male": ""
+            },
+            "plural": ""
+        },
+        "const": "- это просто"
+    },
+    "[I] likes to [M]": {
+        "pattern": "[I] [V][C] [M]",
+        "var": {
+            "singular": {
+                "female": "любит",
+                "male": "любит"
+            },
+            "plural": "любят"
+        },
+        "const": ""
+    },
+    "[I] like to [M]": {
+        "pattern": "[I] [V][C] [M]",
+        "var": {
+            "singular": {
+                "female": "любит",
+                "male": "любит"
+            },
+            "plural": "любят"
+        },
+        "const": ""
+    },
+    "[I] knows how to [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "знает",
+                "male": "знает"
+            },
+            "plural": "знают"
+        },
+        "const": "как"
+    },
+    "[I] know how to [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "знает",
+                "male": "знает"
+            },
+            "plural": "знают"
+        },
+        "const": "как"
+    },
+    "[I] is meant to be [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "должна",
+                "male": "должен"
+            },
+            "plural": "должны"
+        },
+        "const": "быть"
+    },
+    "[I] are meant to be [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "должна",
+                "male": "должен"
+            },
+            "plural": "должны"
+        },
+        "const": "быть"
+    },
+    "[I] is very good at [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "хороша",
+                "male": "хорош"
+            },
+            "plural": "хороши"
+        },
+        "const": "в"
+    },
+    "[I] are very good at [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "хороша",
+                "male": "хорош"
+            },
+            "plural": "хороши"
+        },
+        "const": "в"
+    },
+    "[I] should know how to [M]": {
+        "pattern": "[I] [V] [C] [M]",
+        "var": {
+            "singular": {
+                "female": "должна",
+                "male": "должен"
+            },
+            "plural": "должны"
+        },
+        "const": "знать как"
+    }
+}
